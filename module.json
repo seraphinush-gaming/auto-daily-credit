@@ -1,0 +1,13 @@
+{
+  "author": "seraphinush",
+  "description": "tera-toolbox module to automatically collect daily credits upon login",
+  "disableAutoUpdate": false,
+  "donationUrl": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=B7QQJZV9L5P2J&source=url",
+  "name": "auto-daily-credit",
+  "options": {
+    "reloadable": true
+  },
+  "servers": ["https://raw.githubusercontent.com/seraphinush-gaming/auto-daily-credit/master/"],
+  "supportUrl": "https://github.com/seraphinush-gaming/auto-daily-credit/blob/master/README.md",
+  "version": "1.00.00"
+}
