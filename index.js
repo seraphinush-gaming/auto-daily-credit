@@ -16,4 +16,4 @@ class auto_daily_credit {
 
 }
 
-module.exports = auto_daily_credit;
+module.exports = { NetworkMod: auto_daily_credit };
