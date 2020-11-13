@@ -1,7 +1,11 @@
 {
-  "files": {
-    "README.md": "0ffd61e820adea420b062f037112d3a0fd51aabe6ba7ee6abcc64af2adbd9faa",
-    "index.js": "fad189862902dab1893ea55350e2f2931688240f42ac603279077efcaefdcfd6",
-    "module.json": "a34eee25ef976e38dc2af4cda3d59ab529e75977b165a7481fd4517385470290"
-  }
+	"files": {
+		"README.md": "0ffd61e820adea420b062f037112d3a0fd51aabe6ba7ee6abcc64af2adbd9faa",
+		"index.js": "fad189862902dab1893ea55350e2f2931688240f42ac603279077efcaefdcfd6",
+		"module.json": "5852476e5b19378f53c870cc65e95fe18bc4ec2dbad8c8ac2ecd622bf5c83840"
+	},
+	"defs": {
+		"C_REQUEST_RECV_DAILY_TOKEN": 1,
+		"S_LOGIN": "event"
+	}
 }
