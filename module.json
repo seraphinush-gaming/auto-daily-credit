@@ -7,7 +7,7 @@
   "options": {
     "reloadable": true
   },
-  "servers": ["https://raw.githubusercontent.com/ylennia-archives/auto-daily-credit/master/"],
+  "servers": ["https://raw.githubusercontent.com/seraphinush-gaming/auto-daily-credit/master/","https://raw.githubusercontent.com/ylennia-archives/auto-daily-credit/master/"],
   "supportUrl": "https://github.com/ylennia-archives/auto-daily-credit/blob/master/README.md",
-  "version": "1.00.0a.v103.02"
+  "version": "1.00.0b.v103.02"
 }
